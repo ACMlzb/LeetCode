@@ -5,6 +5,7 @@
  *     ListNode next;
  *     ListNode(int x) { val = x; }
  * }
+ * Make c charge
  */
 public class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
